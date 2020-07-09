@@ -12,6 +12,6 @@ I plan to self learn and maintain this blog site to motivate myself to learn new
 
 I love cricket, watching FIFA and playing Brawl Stars in my free time.
 
-If you want to contact me or talk about anything else like cricket or learn more about me, send me a DM on twitter [here](https://twitter.com/kunalr01) or mail [here](rustagi.kunal@outlook.com) 
+If you want to contact me or talk about anything else like cricket or learn more about me, send me a DM on twitter [here](https://twitter.com/kunalr01) or mail [here](mailto:rustagi.kunal@outlook.com) 
 
 ![site on-line](/assets/octocat.png)
