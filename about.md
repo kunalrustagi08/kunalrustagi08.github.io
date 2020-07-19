@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-I am a proud Indian.  
+I am an Indian, currently in Maharashtra.  
 I tried studying for medicine, but it did not work out due to financial issues.  
-I had to settle for Bachelors in Electronics, having no interest in it.  
+Later, I did Bachelors in Electronics, having no interest in it and was promised by the college that if I get good grades in First Year, I would be transfered to the Computer Dept. Getting good grades didn't work out as well.
 
-But, in the final years, I developed a fonding towards learning python and data science.  
-I plan to self learn and maintain this blog site to motivate myself to learn new things.  
+But, since my 6th semester, I developed a fonding towards learning python and data science.  
+I plan to write blogs to share my knowledge and my journey.  
 
 I love cricket, watching FIFA and playing Brawl Stars in my free time.
 
