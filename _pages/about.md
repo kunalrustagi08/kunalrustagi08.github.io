@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergrad at the Electronics and Telecomm Dept. at AISSMS IOIT, Pune. My interest lies in Digital Image Processing and the various fields it is used in it.  
-Currently, I am revising the basics of image processing in order to build a solid foundation.
+I am doing my undergrad at the Electronics and Telecomm Department at [AISSMS IOIT](https://aissmsioit.org/), Pune. I am interested in Digital Image Processing and its applications to different fields.
+Currently, I am studying the basic concepts of image processing to build a solid foundation.
 
-A few of my internships include:
+In the past, I have done internships on:
 * Rainfall nowcasting of severe rainfall events over Mumbai at Indian Institute of Tropical Meteorology, Pune.
 * Performed sentiment analysis on reviews scraped from various websites using TextBlob at DigitalMain, Pune.
-* Built a text-to-speech bot on a Raspberry Pi using gTTS along with study on Emotion Detection at Makers' Lab, Tech Mahindra, Pune.  
+* Built a text-to-speech bot on a Raspberry Pi using gTTS along with a study on Emotion Detection at Makers' Lab, Tech Mahindra, Pune.  
 

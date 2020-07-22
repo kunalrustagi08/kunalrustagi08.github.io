@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +10,11 @@ redirect_from:
 
 Work experience
 ======
-* **Indian Institute of Tropical Meteorology, Pune** [2019 - 2020]
+* **[Indian Institute of Tropical Meteorology, Pune](https://www.tropmet.res.in/)** [2019 - 2020]
   * Project Intern
   * Duties included:  
     * Radar data preprocessing using `wradlib`  
-    * Rainfall nowcasting using Lucas Kanade algorithm  
+    * Rainfall nowcasting using optical flow methods to retrieve the precipitation motion field and using Lagrangian extrapolation to produce short term forecasts. 
   * Supervisor: [Dr. Kaustav Chakravarthy](https://www.tropmet.res.in/105-Kaustav%20%20Chakravarty-scientist_detail)
 
 * **DigitalMain, Pune** [Mar. 2018 - Jun. 2019]
@@ -36,20 +35,18 @@ Education
   * AISSMS IOIT, Pune University, India [2016 - 2020]
   * Grade: 9.1 SGPA
  
-* **High School or 12th** 
-  * D.A.V Public School, India [2014 - 2016]
-  * Grade: 89.4 %
 
 Interests
 ======
 * Image Processing, Computer Vision
 * Machine Learning, Math
+* Programming, Data exploration and visualization
  
 Skills
 ======
 * Languages: Python, C, C++
 * Tools: MATLAB, git
-* Libraries: pySTEPS
+* Libraries: [pySTEPS](https://pysteps.github.io/), matplotlib, numpy, pandas
 
 
 <!---
