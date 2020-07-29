@@ -39,7 +39,7 @@ Education
 Interests
 ======
 * Image Processing, Computer Vision
-* Machine Learning, Math
+* Machine Learning, Mathematics
 * Programming, Data exploration and visualization
  
 Skills
@@ -48,7 +48,22 @@ Skills
 * Tools: MATLAB, git
 * Libraries: [pySTEPS](https://pysteps.github.io/), matplotlib, numpy, pandas
 
+Relevant Coursework
+======
+* Pune University  
+  * Digital Image and Video Processing, Engineering Mathematics 1, 2 & 3, Digital Signal Processing, Data structures and algorithms, Operating Systems  
 
+Online Courses
+======
+* Ongoing  
+  * Fundamentals of Digital Image and Video Processing, Coursera  
+  * Intro to Calculus, Coursera
+* Completed  
+  * Summer Analytics 2020, IITG
+  * Data Science Math Skills, Coursera
+  * Python 101 for Data Science, Cognitive Class IBM
+  * SQL Fundamentals Course, SoloLearn
+  
 <!---
 Publications
 ======

@@ -1,8 +1,41 @@
 ---
 layout: archive
-title: "Activities"
-permalink: /activities/
+title: "Interests & Activities"
+permalink: /interests-activities/
 author_profile: true
 ---
 
-Coming soon :)
+Events participated in:
+======
+* Summer Code Jam 2020 by Python Discord  
+    * Ongoing 
+* HackJaipur  
+    * 20 - 21 June, 2020
+* ML Track Coder's Week, IEEE APSIT  
+    * 1 - 11 June, 2020
+
+YouTube channels I follow:
+======
+* freeCodeCamp
+* Tech with Tim
+* sentdex
+* Data School
+* 3Blue1Brown
+
+Free time
+======
+* Cricket
+* Brawl stars
+* Badminton
+
+Tweeples to follow
+======
+* Narendra Modi
+* Bill Gates
+* Andreas Mueller
+* Rachel Thomas
+* Michal Fabinger
+* Jeremy Horward
+* Abhisek Thakur
+* Anand Ranganathan
+* Neil deGrasse Tyson

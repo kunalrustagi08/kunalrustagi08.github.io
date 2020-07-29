@@ -10,8 +10,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Activities"
-    url: /activities/
+  - title: "Interests & Activities"
+    url: /interests-activities/
 
   # - title: "Publications"
   #   url: /publications/
