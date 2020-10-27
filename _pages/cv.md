@@ -31,6 +31,9 @@ Work experience
 
 Education
 ======
+* **Data Science BootCamp**
+  * [Tokyo Data Science](https://tokyodatascience.com/) [Oct. 2020 - Present]
+
 * **B.E. Electronics and Telecommunications**
   * AISSMS IOIT, Pune University, India [2016 - 2020]
   * Grade: 9.1 SGPA

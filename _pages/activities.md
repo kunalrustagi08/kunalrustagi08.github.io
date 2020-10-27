@@ -8,7 +8,7 @@ author_profile: true
 Events participated in:
 ======
 * Summer Code Jam 2020 by Python Discord  
-    * Ongoing 
+    * Secured 2nd rank for the project [SoCl media](https://github.com/akshgpt7/summer-code-jam-2020/tree/master/annoyed-alligators)
 * HackJaipur  
     * 20 - 21 June, 2020
 * ML Track Coder's Week, IEEE APSIT  
