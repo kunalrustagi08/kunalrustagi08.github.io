@@ -36,7 +36,7 @@ Education
 
 * **B.E. Electronics and Telecommunications**
   * AISSMS IOIT, Pune University, India [2016 - 2020]
-  * Grade: 9.1 SGPA
+  * Grade: 9.22 CGPA
  
 
 Interests
