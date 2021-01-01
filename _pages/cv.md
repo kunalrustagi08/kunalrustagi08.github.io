@@ -68,13 +68,14 @@ Online Courses
   * Python 101 for Data Science, Cognitive Class IBM
   * SQL Fundamentals Course, SoloLearn
   
-<!---
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-//  
+
+<!---//  
 Talks
 ======
   <ul>{% for post in site.talks %}

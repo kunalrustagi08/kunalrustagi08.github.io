@@ -4,6 +4,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Publications"
+    url: /publications/
+  
   - title: "Blog Posts"
     url: /year-archive/
 
@@ -13,8 +16,7 @@ main:
   - title: "Interests & Activities"
     url: /interests-activities/
 
-  # - title: "Publications"
-  #   url: /publications/
+
 
   # - title: "Talks"
   #   url: /talks/    
