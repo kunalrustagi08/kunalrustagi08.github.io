@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kunal Rustagi homepage"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am doing my undergrad at the Electronics and Telecomm Department at [AISSMS IOIT](https://aissmsioit.org/), Pune. I am interested in Digital Image Processing and its applications to different fields.
-Currently, I am studying the basic concepts of image processing to build a solid foundation.
+I have completed my Bachelors in Electronics and Telecommunications Engineering at [AISSMS IOIT](https://aissmsioit.org/), Pune University with 9.22 CGPA. In my free time, I like to study and work on image processing. Currently, I am honing my skills in metworking, operating systems and cloud computing.
 
 In the past, I have done internships on:
 * Rainfall nowcasting of severe rainfall events over Mumbai at Indian Institute of Tropical Meteorology, Pune.

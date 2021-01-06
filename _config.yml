@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kunal Rustagi"
   avatar           : "profile1.jpeg"
-  bio              : "ENTC undergrad at Pune University. Image Processing. Cricket. Brawl Stars..."
+  bio              : "Research Intern at IITM. UG from Pune University. Cricket. Brawl Stars..."
   location         : "Pune, India"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=N3e8a7kAAAAJ&hl=en"
   email            : "rustagi.kunal@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

@@ -10,8 +10,10 @@ paperurl: 'https://doi.org/10.31223/X5Q88Q'
 ---
 
 
-[Download paper here](https://eartharxiv.org/repository/object/1941/download/4078/)
+
 
 <!---Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 -->
 Please note: This is a preprint submitted to EarthArXiv to generate discussion about this topic and has not been peer reviewed yet.
+
+[Download paper here](https://eartharxiv.org/repository/object/1941/download/4078/)
