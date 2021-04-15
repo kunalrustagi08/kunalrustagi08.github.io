@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have completed my Bachelors in Electronics and Telecommunications Engineering at [AISSMS IOIT](https://aissmsioit.org/), Pune University with 9.22 CGPA. In my free time, I like to study and work on image processing. Currently, I am honing my skills in metworking, operating systems and cloud computing.
+I have completed my Bachelors in Electronics and Telecommunications Engineering at [AISSMS IOIT](https://aissmsioit.org/), Pune University with 9.22 CGPA. In my free time, I like to study and work on image processing. Currently, I am honing my skills in programming, networking,and cloud computing.
 
 In the past, I have done internships on:
 * Rainfall nowcasting of severe rainfall events over Mumbai at Indian Institute of Tropical Meteorology, Pune.
