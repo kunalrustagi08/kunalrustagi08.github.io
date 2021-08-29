@@ -11,6 +11,13 @@ redirect_from:
 
 Work experience
 ======
+* **ZS Associates, Pune** [Mar. 2021 - Current]
+  * Decision Analytics Associate
+  * Duties include:  
+    * Working on medical claims data to derive meaningful insights by use of analytics tools like `SQL` and `Tableau`.  
+    * Developing `Python` scripts to automate certain processes like highlighting words in transcripts, quality check tests.
+
+
 * **[Indian Institute of Tropical Meteorology, Pune](https://www.tropmet.res.in/)** [2019 - 2020]
   * Project Intern
   * Duties included:  
@@ -27,7 +34,7 @@ Work experience
 * **Makers' Lab, Tech Mahindra, Pune** [Jan. 2019 - Mar. 2019]
   * Student Scientist
   * Duties included:  
-    * A text-to-speech and translator implemented on a Raspberry Pi to help conversation with local cab drivers.  
+    * A text-to-speech and translator implemented on a `Raspberry Pi` to help conversation with local cab drivers.  
     * Studied the basics of emotion detection. 
 
 Education
@@ -44,7 +51,7 @@ Interests
 ======
 * Image Processing, Computer Vision
 * Machine Learning, Mathematics
-* Programming, Data exploration and visualization
+* DevOps
  
 Skills
 ======
@@ -60,8 +67,8 @@ Relevant Coursework
 Online Courses
 ======
 * Ongoing  
-  * Fundamentals of Digital Image and Video Processing, Coursera  
-  * Intro to Calculus, Coursera
+  * Data Structures & Algorithms 1, GeorgiaTech, edX
+  * Fundamentals of Digital Image and Video Processing, Coursera
 * Completed  
   * Summer Analytics 2020, IITG
   * Data Science Math Skills, Coursera
