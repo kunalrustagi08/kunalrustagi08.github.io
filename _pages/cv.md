@@ -15,7 +15,11 @@ Work experience
   * Decision Analytics Associate
   * Duties include:  
     * Working on medical claims data to derive meaningful insights by use of analytics tools like `SQL` and `Tableau`.  
-    * Developing `Python` scripts to automate certain processes like highlighting words in transcripts, quality check tests.
+    * Developing `Python` scripts to automate certain processes such as:
+      * Highlighting words in multiple transcripts at once
+      * Reduce the effort of creating manual pivot tables in `Excel` by setting up a one-time code
+      * Reduce the intracacies of using `Tableau` to compare trends by using pandas
+      * Automating the quality check tests to get counts of rows `SQL` tables before and after data loading
 
 
 * **[Indian Institute of Tropical Meteorology, Pune](https://www.tropmet.res.in/)** [2019 - 2020]
@@ -40,7 +44,8 @@ Work experience
 Education
 ======
 * **Data Science BootCamp**
-  * [Tokyo Data Science](https://tokyodatascience.com/) [Oct. 2020 - Present]
+  * [Acalonia School](https://acalonia.com/acalonia-school) [Oct. 2020 - Present]
+    * Formerly known as Tokyo Data Science
 
 * **B.E. Electronics and Telecommunications**
   * AISSMS IOIT, Pune University, India [2016 - 2020]
@@ -51,27 +56,30 @@ Interests
 ======
 * Image Processing, Computer Vision
 * Machine Learning, Mathematics
-* DevOps
+* DevOps, Linux
  
 Skills
 ======
 * Languages: Python, C, C++
-* Tools: MATLAB, git
+* Tools: MATLAB, git, Tableau, Excel
 * Libraries: [pySTEPS](https://pysteps.github.io/), matplotlib, numpy, pandas
 
 Relevant Coursework
 ======
 * Pune University  
-  * Digital Image and Video Processing, Engineering Mathematics 1, 2 & 3, Digital Signal Processing, Data structures and algorithms, Operating Systems  
+  * Digital Image and Video Processing, Digital Signal Processing, Signals and Systems
+  * Engineering Mathematics 1, 2 & 3
+  * Data structures and algorithms, Operating Systems, OOP concepts  
 
-Online Courses
+Online Courses and Books
 ======
 * Ongoing  
-  * Data Structures & Algorithms 1, GeorgiaTech, edX
-  * Fundamentals of Digital Image and Video Processing, Coursera
+  * Book: A Common-Sense Guide to Data Structures and Algorithms, Second Edition
+  * OpenCV 101: OpenCV for beginners, OpenCV
 * Completed  
+  * [Probability and Statistics: To p or not to p?](https://coursera.org/share/b142bc96a881ad044c98d7b130a9d456)
   * Summer Analytics 2020, IITG
-  * Data Science Math Skills, Coursera
+  * [Data Science Math Skills](https://coursera.org/share/ed4958a99b87d32edc26a9009c01744c)
   * Python 101 for Data Science, Cognitive Class IBM
   * SQL Fundamentals Course, SoloLearn
   

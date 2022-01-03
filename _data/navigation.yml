@@ -10,8 +10,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Interests & Activities"
     url: /interests-activities/
@@ -24,5 +24,5 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Guide"
+  - title: "Markdown Guide"
     url: /markdown/

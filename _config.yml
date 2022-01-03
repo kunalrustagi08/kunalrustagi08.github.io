@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kunalr01"
+  twitter          : # "kunalr01"
   vine             :
   weibo            :
   xing             :
@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  _talks
   - scope:
       path: ""
       type: talks

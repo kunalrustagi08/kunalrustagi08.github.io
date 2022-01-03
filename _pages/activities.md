@@ -7,6 +7,7 @@ author_profile: true
 
 Events participated in:
 ======
+* Code-in Place, by Standford University (May 2021)
 * Summer Code Jam 2020 by Python Discord  
     * Secured 2nd rank for the project [SoCl media](https://github.com/akshgpt7/summer-code-jam-2020/tree/master/annoyed-alligators)
 * HackJaipur  
@@ -24,9 +25,10 @@ YouTube channels I follow:
 
 Free time
 ======
+* Cycling
 * Cricket
-* Brawl stars
 * Badminton
+* Brawl stars
 
 Tweeples to follow
 ======
