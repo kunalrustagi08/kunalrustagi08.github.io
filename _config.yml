@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kunalrustagi08/kunalrustagi08.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 120
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kunal Rustagi"
   avatar           : "profile1.jpeg"
-  bio              : "Decision Analytics Associate. UG from Pune University, Ex-Research Intern at IITM "
+  bio              : "Incoming UCSD ECE graduate | Ex-ZSer"
   location         : "Pune, India"
-  employer         :  "ZS Associates"
+  employer         : "University of California, San Diego"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N3e8a7kAAAAJ&hl=en"
   email            : "rustagi.kunal@outlook.com"
