@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Kunal Rustagi"
-  avatar           : "profile1.jpeg"
-  bio              : "Incoming UCSD ECE graduate | Ex-ZSer"
-  location         : "Pune, India"
+  avatar           : "profile_1.png"
+  bio              : "ECE Graduate at UCSD | Ex-ZSer"
+  location         : "San Diego, CA"
   employer         : "University of California, San Diego"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N3e8a7kAAAAJ&hl=en"
-  email            : "rustagi.kunal@outlook.com"
+  email            : "kurustagi@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

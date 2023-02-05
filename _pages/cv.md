@@ -11,16 +11,19 @@ redirect_from:
 
 Work experience
 ======
-* **ZS Associates, Pune** [Mar. 2021 - Current]
+* **ZS Associates, Pune** [Mar. 2021 - Jul. 2022]
   * Decision Analytics Associate
-  * Duties include:  
-    * Working on medical claims data to derive meaningful insights by use of analytics tools like `SQL` and `Tableau`.  
-    * Developing `Python` scripts to automate certain processes such as:
-      * Highlighting words in multiple transcripts at once
+  * Duties included:  
+    * Developed `Python` scripts to automate processes which resulted in **50\%** reduction in monthly workflow time:
+      * Highlighted words in multiple transcripts at once
       * Reduce the effort of creating manual pivot tables in `Excel` by setting up a one-time code
-      * Reduce the intracacies of using `Tableau` to compare trends by using pandas
+      * Reduce the intracacies of using `Tableau` to compare trends by using `pandas`
       * Automating the quality check tests to get counts of rows `SQL` tables before and after data loading
-
+      * Automated the way visualizations were created in `Excel` by using `plotly`
+    * Working on medical claims data to derive meaningful insights by use of analytics tools like `SQL` and `Tableau`
+    * Helped the team in processing 100 GBs of EMR data to identify SCLC (Small Cell Lung Cancer) patients and create their Line of Therapies
+    * Supervised and onboarded an intern by preparing weekly tasks and readings, and constantly followed up his progress
+    * Actively advocated for and implemented best practices in data management by utilizing `Git` for maintaining version control of `SQL` files and `Jupyter Notebooks`
 
 * **[Indian Institute of Tropical Meteorology, Pune](https://www.tropmet.res.in/)** [2019 - 2020]
   * Project Intern
@@ -43,6 +46,10 @@ Work experience
 
 Education
 ======
+* **M.S. Electrical and Computer Engineering: Machine Learning and Data Science**
+  * University of California, San Diego [2022 - 2024]
+  * Grade: 3.6 GPA
+
 * **Data Science BootCamp**
   * [Acalonia School](https://acalonia.com/acalonia-school) [Oct. 2020 - Present]
     * Formerly known as Tokyo Data Science
@@ -61,7 +68,8 @@ Interests
 Skills
 ======
 * Languages: Python, C, C++
-* Tools: MATLAB, git, Tableau, Excel
+* Tools: Linux, MATLAB, Git, Tableau, Excel, Docker
+* Platforms: GCP, Azure
 * Libraries: [pySTEPS](https://pysteps.github.io/), matplotlib, numpy, pandas
 
 Relevant Coursework
@@ -83,6 +91,11 @@ Online Courses and Books
   * Python 101 for Data Science, Cognitive Class IBM
   * SQL Fundamentals Course, SoloLearn
   
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
@@ -95,13 +108,8 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-//  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
+
 //  
 Service and leadership
 ======
