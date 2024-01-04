@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kunal Rustagi"
   avatar           : "profile_1.png"
-  bio              : "ECE Graduate at UCSD | Ex-ZSer"
+  bio              : "ECE Graduate at UCSD | Teaching Assistant | Moderna | ZS Associates"
   location         : "San Diego, CA"
   employer         : "University of California, San Diego"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -266,7 +266,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:  bAmerica/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

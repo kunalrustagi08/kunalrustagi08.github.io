@@ -11,16 +11,20 @@ redirect_from:
 
 Work experience
 ======
+* **Moderna Therapeutics Inc, Boston  ** [Jun. 2023 - Sept. 2022]
+  * Technical Development Intern
+  * 
+
 * **ZS Associates, Pune** [Mar. 2021 - Jul. 2022]
   * Decision Analytics Associate
   * Duties included:  
     * Developed `Python` scripts to automate processes which resulted in **50\%** reduction in monthly workflow time:
-      * Highlighted words in multiple transcripts at once
-      * Reduce the effort of creating manual pivot tables in `Excel` by setting up a one-time code
-      * Reduce the intracacies of using `Tableau` to compare trends by using `pandas`
-      * Automating the quality check tests to get counts of rows `SQL` tables before and after data loading
+      * Highlighted words in multiple transcripts at once, which was done manually before
+      * Reduced the effort of creating manual pivot tables in `Excel` by setting up a one-time code
+      * Reduced the intracacies of using `Tableau` to compare trends by using `pandas`
+      * Automated the quality check tests to get counts of rows `SQL` tables before and after data loading
       * Automated the way visualizations were created in `Excel` by using `plotly`
-    * Working on medical claims data to derive meaningful insights by use of analytics tools like `SQL` and `Tableau`
+    * Worked on medical claims data to derive meaningful insights by use of analytics tools like `SQL` and `Tableau`
     * Helped the team in processing 100 GBs of EMR data to identify SCLC (Small Cell Lung Cancer) patients and create their Line of Therapies
     * Supervised and onboarded an intern by preparing weekly tasks and readings, and constantly followed up his progress
     * Actively advocated for and implemented best practices in data management by utilizing `Git` for maintaining version control of `SQL` files and `Jupyter Notebooks`
@@ -55,7 +59,7 @@ Education
     * Formerly known as Tokyo Data Science
 
 * **B.E. Electronics and Telecommunications**
-  * AISSMS IOIT, Pune University, India [2016 - 2020]
+  * University of Pune, India [2016 - 2020]
   * Grade: 9.22 CGPA
  
 
@@ -74,7 +78,10 @@ Skills
 
 Relevant Coursework
 ======
-* Pune University  
+* University of California, San Diego 
+  * Programming for Data Analysis, Probability and Statistics, Intro to AI
+  * Linear algebra, Intro to Intelligent systems
+* University of Pune 
   * Digital Image and Video Processing, Digital Signal Processing, Signals and Systems
   * Engineering Mathematics 1, 2 & 3
   * Data structures and algorithms, Operating Systems, OOP concepts  
