@@ -4,25 +4,27 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
-  
-  - title: "Blog Posts"
-    url: /year-archive/
-
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "Interests & Activities"
-    url: /interests-activities/
-
-
+  # - title: "Interests & Activities"
+  #   url: /interests-activities/
 
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
+  - title: "Contact"
+    url: /contact/,
+  
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "Publications"
+    url: /publications/
+  
   - title: "Markdown Guide"
     url: /markdown/
+

@@ -1,11 +1,10 @@
 ---
-layout: archive
-title: "Contact"
 permalink: /contact/
+title: "Contact me"
 author_profile: true
+redirect_from: 
+  - /contact.html
 ---
-
-{% include base_path %}
 
 
 Email: kurustagi@ucsd.edu

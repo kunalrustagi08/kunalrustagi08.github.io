@@ -13,7 +13,7 @@ Hello there! (You know what to say)
 A favorite quote by *Roy T. Bennett* that I like to remember at all times:
 > “It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.”
 
-I am a graduate student at **UC San Diego**, and majoring in Electrical and Computer Engineering with a specialization in Machine Learning and Data Science. Additionally, I am a Teaching Assistant for COGS 9: Introduction to Data Science, and have actively been involved in solving doubts, holding discussions and grading.
+I am a graduate student at **UC San Diego**, and majoring in Electrical and Computer Engineering with a specialization in Machine Learning and Data Science. Additionally, I am a Teaching Assistant for COGS 108: Data Science in Practice, and have actively been involved in solving doubts, holding discussions and grading.
 
 Prior to this, I worked as a Decision Analytics Associate at **ZS Associates**, Pune. My primary tasks involved use of `SQL`, `Python`, and `Tableau` to work on medical claims data and prepare reports for the clients, and use of `Python` to automate certain tasks and QC tests. Previously, I completed my Bachelors in Electronics and Telecommunications Engineering at **University of Pune** with 9.22 CGPA.  
 
