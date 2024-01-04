@@ -17,7 +17,7 @@ main:
     url: /teaching/
 
   - title: "Contact"
-    url: /contact/,
+    url: /contact/
   
   - title: "Blog Posts"
     url: /year-archive/
