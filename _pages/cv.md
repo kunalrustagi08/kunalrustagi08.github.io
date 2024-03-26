@@ -59,7 +59,7 @@ Education
 ======
 * **M.S. Electrical and Computer Engineering: Machine Learning and Data Science**
   * University of California, San Diego [2022 - 2024]
-  * Grade: 3.65 GPA
+  * Grade: 3.67 GPA
 
 * **Data Science BootCamp**
   * [Acalonia School](https://acalonia.com/acalonia-school) (formerly Tokyo Data Science) [Oct. 2020 - Present]
@@ -94,7 +94,7 @@ Relevant Coursework
   * Engineering Mathematics 1, 2 & 3
   * Data structures and algorithms, Operating Systems, OOP concepts  
 
-Online Courses and Books
+<!-- Online Courses and Books
 ======
 * Ongoing  
   * Book: A Common-Sense Guide to Data Structures and Algorithms, Second Edition
@@ -104,7 +104,7 @@ Online Courses and Books
   * Summer Analytics 2020, IITG
   * [Data Science Math Skills](https://coursera.org/share/ed4958a99b87d32edc26a9009c01744c)
   * Python 101 for Data Science, Cognitive Class IBM
-  * SQL Fundamentals Course, SoloLearn
+  * SQL Fundamentals Course, SoloLearn -->
 
 <!--- 
 Teaching
