@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+
+Resume [PDF](https://kunalrustagi08.github.io/resume)
+
+Education
+======
+* M.S. in E.C.E, Machine Learning and Data Science, UC San Diego, U.S.A., June 2024
+* B.E. in Electronics and Telecommunication Engineering, Pune University, India, April 2020
+
+
 Work Experience
 ======
 * **Moderna Therapeutics Inc, Boston** [Jun. 2023 - Sept. 2022]
@@ -53,7 +62,7 @@ Work Experience
     * A text-to-speech and translator implemented on a `Raspberry Pi` to help conversation with local cab drivers.  
     * Studied the basics of emotion detection. 
 
-Education
+<!-- Education
 ======
 * **M.S. Electrical and Computer Engineering: Machine Learning and Data Science**
   * University of California, San Diego [2022 - 2024]
@@ -64,7 +73,7 @@ Education
 
 * **B.E. Electronics and Telecommunications**
   * University of Pune, India [2016 - 2020]
-  * Grade: 9.22 CGPA
+  * Grade: 9.22 CGPA -->
  
 
 Interests
