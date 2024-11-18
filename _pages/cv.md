@@ -10,96 +10,84 @@ author_profile: true
 
 Resume [PDF](https://kunalrustagi08.github.io/resume)
 
-Education
-======
-* M.S. in E.C.E, Machine Learning and Data Science, UC San Diego, U.S.A., June 2024
-* B.E. in Electronics and Telecommunication Engineering, Pune University, India, April 2020
+## Education
+
+### M.S. in E.C.E, Machine Learning and Data Science
+**University of California, San Diego** - United States  
+*June 2024* 
+- Recommendation Systems, ML for Physical Applications, Probabilistic Reasong and Decision Making
+- Probability and Statistics, Statistical Learning 1 and 2
+- Programming for Data Analysis, Database Systems
+
+### B.E. in Electronics and Telecommunication Engineering
+**Pune University** - India  
+*April 2020*  
+- Data Structures and Algorithms, Operating Systems, OOPs
+- Digital Signal Processing, Signals and Systems
 
 
-Work Experience
-======
-* **Moderna Therapeutics Inc, Boston** [Jun. 2023 - Sept. 2022]
-  * Technical Development Intern
-  * Duties included:
-    * Utilized established statistical and data management software for precise data processing, cleaning and analysis within the `CMC Statistics` team.
-    * Developed an add-in using `JMP Scripting Language (JSL)` for application in an mRNA drug development process.
-      * Automated manual specification limit updates, generation of individual value plots.
-      * Summarized outcomes in a detailed report.
-      * Saved over `60-90 minutes` per data file of RNA, LNP, LMX.
-    * Successfully conducted a comprehensive temperature excursion analysis for a vaccine using `R` over a three-week period.
-    * Contributed significantly to the collaboration on `Tier-2` reports for an emerging vaccine development project.
+## Experience
 
-* **ZS Associates, Pune** [Mar. 2021 - Jul. 2022]
-  * Decision Analytics Associate
-  * Duties included:  
-    * Developed `Python` scripts to automate processes which resulted in **50\%** reduction in monthly workflow time:
-      * Highlighted words in multiple transcripts at once, which was done manually before.
-      * Reduced the effort of creating manual pivot tables in `Excel` by setting up a one-time code.
-      * Reduced the intracacies of using `Tableau` to compare trends by using `pandas`.
-      * Automated the quality check tests to get counts of rows `SQL` tables before and after data loading.
-      * Automated the way visualizations were created in `Excel` by using `plotly`.
-    * Worked on medical claims data to derive meaningful insights by use of analytics tools like `SQL` and `Tableau`.
-    * Helped the team in processing 100 GBs of EMR data to identify SCLC (Small Cell Lung Cancer) patients and create their Line of Therapies.
-    * Supervised and onboarded an intern by preparing weekly tasks and readings, and constantly followed up his progress.
-    * Actively advocated for and implemented best practices in data management by utilizing `Git` for maintaining version control of `SQL` files and `Jupyter Notebooks`.
+### AI Solutions Consultant (Part-time)
+**The Ready Now Foundation** - Remote  
+*Sept 2024 – Present*  
+- Building a prototype for a chatbot agent using RAGs and open-source LLMs to facilitate student learning in real-time.
+- Leading as a data translator, simplifying AI concepts like Least Squares, Neural networks using animations in Manim to help high
+school students visualize these concepts.
 
-* **[Indian Institute of Tropical Meteorology, Pune](https://www.tropmet.res.in/)** [2019 - 2020]
-  * Project Intern
-  * Duties included:  
-    * Radar data preprocessing using `wradlib`.
-    * Rainfall nowcasting using optical flow methods to retrieve the precipitation motion field and using Lagrangian extrapolation to produce short term forecasts. 
-  * Supervisor: [Dr. Kaustav Chakravarthy](https://www.tropmet.res.in/105-Kaustav%20%20Chakravarty-scientist_detail)
+<!-- ### Teaching Assistant
+**University of California, San Diego** - San Diego, CA  
+*Jan. 2023 – Jun. 2024*  
+- Designed assessments and curated content for introductory Machine Learning, Statistics, and Data Visualization courses.
+- Spearheaded coding sessions in Python and R two times a week for over 500 students, along with project mentorship.
+- Mentored students and collaborated with the course instructor to create course content on a weekly basis. -->
 
-* **DigitalMain, Pune** [Mar. 2018 - Jun. 2019]
-  * Project Intern
-  * Duties included:  
-    * Product review scraping and web crawling using `BeautifulSoup`.
-    * Positive-negative review classification using `TextBlob`.
+### Data Engineer Intern
+**Hauler Hero** - San Diego, CA  
+*Apr. 2024 – Jun. 2024*  
+- Streamlined data operations by translating complex SQL queries into Python, using data manipulation techniques to boost data retrieval efficiency by ~38%.
+- Transitioned to an ORM-centric data architecture using SQLAlchemy, enhancing data scalability and maintainability by ~45%, optimizing data flow and access patterns for high-volume data processing.
 
-* **Makers' Lab, Tech Mahindra, Pune** [Jan. 2019 - Mar. 2019]
-  * Student Scientist
-  * Duties included:  
-    * A text-to-speech and translator implemented on a `Raspberry Pi` to help conversation with local cab drivers.  
-    * Studied the basics of emotion detection. 
+### Statistical Intern
+**Moderna Therapeutics** - Boston, MA  
+*Jun. 2023 – Sep. 2023*  
+- Piloted the development of a JMP UI visualization tool utilizing OpenAI API to automate mRNA vaccine data analysis and anomaly detection, reducing processing time by ~98%.
+- Deployed R Shiny applications to monitor vaccine metrics and statistics, improving protocols for safe administration of doses.
 
-<!-- Education
-======
-* **M.S. Electrical and Computer Engineering: Machine Learning and Data Science**
-  * University of California, San Diego [2022 - 2024]
-  * Grade: 3.67 GPA
+### Decision Analytics Associate
+**ZS Associates** - Pune, India  
+*Mar. 2021 – Jul. 2022*  
+- Conducted physician segmentation, directly impacting marketing strategies and resulting in an ~18% increase in drug adoption rates through A/B testing. Consulted and delivered findings to stakeholders using interactive KPI Tableau dashboards.
+- Established end-to-end ETL pipelines in RedShift, refactoring SQL queries for large-scale complex insurance claims records.
+- Automated 22+ processes in data validation, integrity verification, outlier detection, and comparison charts using Python.
+- Developed monthly forecasting models for better field targeting and planning by integrating EMR with healthcare data.
 
-* **Data Science BootCamp**
-  * [Acalonia School](https://acalonia.com/acalonia-school) (formerly Tokyo Data Science) [Oct. 2020 - Present]
+### Data Analyst
+**On Time Technologies** - Pune, India  
+*Mar. 2019 – Mar. 2021*  
+- Explored customer service data through root cause analysis and sentiment analysis using Naive Bayes Classifier, communicating strategic recommendations that improved customer complaint resolution time by ~68%.
+- Developed a PowerBI dashboard to monitor daily service calls and customer requests, accelerating response times by ~33%.
+- Scripted MySQL triggers for real-time data validation, slashing data-entry errors by ~48%, reducing manual corrections.
 
-* **B.E. Electronics and Telecommunications**
-  * University of Pune, India [2016 - 2020]
-  * Grade: 9.22 CGPA -->
+### Geospatial Data Science Intern
+**Indian Institute of Tropical Meteorology** - Pune, India  
+*Aug. 2019 – Jul. 2020*  
+- Formulated a Proof-of-Concept (POC) to extend real-time rainfall nowcast by 1.5 hours, beating past performance by ~45%.
+- Detected and filtered static noise, enhancing precipitation data quality by ~21%, ensuring accurate predictions.
  
 
-Interests
-======
-* Data Science, Data Analytics
-* Machine Learning, Mathematics
-* Databases, Linux
+## Interests
+* Data Science, Data Analytics, Engineering
+* Automation, Consulting
  
-Skills
-======
+## Skills
 * Languages: Python, SQL, PostgreSQL, JMP Scripting Language (JSL)
 * Tools: Tableau, JMP, MATLAB, Excel
 * Libraries: Django, pandas, plotly, numpy
 * Familiarity with: Git, Linux, Docker, Amazon Redshift, Google Cloud Platform
 
-Relevant Coursework
-======
-* University of California, San Diego 
-  * Programming for Data Analysis, Probability and Statistics, Intro to AI
-  * Linear algebra, Intro to Intelligent systems
-  * Database Systems, ML for Physical Applications
-  * Statistical Learning, Recommender Systems, Digital Image Processing
-* University of Pune 
-  * Digital Signal Processing, Signals and Systems
-  * Engineering Mathematics 1, 2 & 3
-  * Data structures and algorithms, Operating Systems, OOP concepts  
+## References
+Available upon request.
 
 <!-- Online Courses and Books
 ======

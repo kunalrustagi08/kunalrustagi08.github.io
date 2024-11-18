@@ -25,6 +25,6 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "Markdown Guide"
-    url: /markdown/
+  # - title: "Markdown Guide"
+  #   url: /markdown/
 
